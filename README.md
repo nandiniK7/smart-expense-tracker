@@ -1,6 +1,6 @@
-# 💰 Income Expense Calculator
+# 💰 Smart Expense Tracker
 
-A responsive personal finance web application that helps users efficiently track income and expenses through an intuitive dashboard with real-time balance calculation and persistent browser storage.
+A responsive personal finance web application that helps users efficiently track and manage their daily expenses through an intuitive dashboard with real-time expense tracking, category filtering, data visualization, and persistent browser storage.
 
 ---
 
@@ -10,15 +10,24 @@ A responsive personal finance web application that helps users efficiently track
 
 ---
 
+## 📸 Application Preview
+
+### Dashboard
+
+![Smart Expense Tracker Dashboard](dashboard.png)
+
+---
+
 ## ✨ Features
 
-- Add income and expense transactions
-- Edit existing transactions
-- Delete transactions
-- Filter transactions by Income / Expense
-- View total income, total expense, and current balance
+- Add new expense transactions
+- Delete existing transactions
+- Categorize expenses (Bills, Food, Travel, etc.)
+- Filter expenses by category
+- View total expenses and total number of entries
+- Interactive pie chart for expense visualization
 - Persistent data storage using Browser Local Storage
-- Responsive design for desktop and mobile devices
+- Clean and responsive user interface
 
 ---
 
@@ -27,6 +36,7 @@ A responsive personal finance web application that helps users efficiently track
 - HTML5
 - CSS3
 - JavaScript (ES6)
+- Chart.js
 - Browser Local Storage API
 - Netlify
 
@@ -38,34 +48,37 @@ A responsive personal finance web application that helps users efficiently track
 - DOM Manipulation
 - Event Handling
 - Local Storage
-- JavaScript Array Methods
-- Dynamic UI Updates
+- Dynamic Data Rendering
+- Chart Integration using Chart.js
 - Responsive Web Design
+- JavaScript Array Methods
 
 ---
 
 ## 📂 Project Structure
 
-```
-income-expense-calculator/
+```text
+smart-expense-tracker/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── README.md
-└── assets/
+├── dashboard.png
+└── README.md
 ```
 
 ---
 
 ## 🚀 Future Enhancements
 
+- Edit existing expense records
 - User Authentication
 - Cloud Database Integration
 - Monthly Expense Analytics
-- Charts & Graphs
 - Budget Planner
+- Export Reports (PDF / CSV)
 - AI-powered Spending Insights
+- Personalized Budget Recommendations
 
 ---
 
@@ -73,7 +86,8 @@ income-expense-calculator/
 
 **Nandini Kasiraju**
 
-📧 Email: mail.nandinikasiraju@gmail.com
+📧 Email:  
+mail.nandinikasiraju@gmail.com
 
 💼 LinkedIn:  
 https://www.linkedin.com/in/nandini-kasiraju-2650473a5
