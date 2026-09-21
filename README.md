@@ -96,6 +96,9 @@ https://www.linkedin.com/in/nandini-kasiraju-2650473a5
 https://github.com/nandiniK7
 
 ---
+### What I Learned
+
+This project strengthened my understanding of DOM manipulation, event handling, form interactions, filtering logic, and browser localStorage for client-side data persistence.
 
 ## 📄 License
 
